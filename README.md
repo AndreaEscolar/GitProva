@@ -7,3 +7,5 @@ Aquest projecte és la meva primera demo a GitHub
 **Andrea** - ***andrea.escolar.artigas@ibadia.cat*** 
 
 Enllaç del projecte: [https://github.com/AndreaEscolar/GitProva](https://github.com/AndreaEscolar/GitProva.git) 
+
+# Cosas
